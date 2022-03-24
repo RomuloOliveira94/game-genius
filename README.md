@@ -1,5 +1,5 @@
 # game-genius
-Training Css Grid, Functions, DOM, Events, Conditions.
+Css Grid, Functions, DOM, Events, Conditions.
 
 https://romulooliveira94.github.io/game-genius/
 
